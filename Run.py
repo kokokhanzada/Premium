@@ -1,2 +1,2 @@
-import approval
-approval.Main()
+import Premium64
+Premium64.approval()
