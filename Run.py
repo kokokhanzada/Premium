@@ -1,0 +1,2 @@
+import Premium
+Premium.Main()
