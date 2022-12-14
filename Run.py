@@ -1,2 +1,2 @@
-import Approval
-Approval.Main()
+import approval
+approval.Main()
